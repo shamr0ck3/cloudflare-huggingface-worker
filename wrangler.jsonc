@@ -1,7 +1,7 @@
 {
   "name": "my-worker",
   "compatibility_date": "2025-03-22",
-  "main": "index.ts"  // Or "main": "index.js" if that's your file
+  "main": "index.js"  // Changed to index.js
 }
 
 
